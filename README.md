@@ -19,7 +19,7 @@ Before you begin, ensure you have the following:
 
 1. **Install the Package**:
    ```bash
-   npm install your-package-name --save-dev
+   npm install llm-commit-review --save-dev
 
 2. **Environment Configuration**:
 Create a .env file in the root of your project and add your OpenAI API key:
